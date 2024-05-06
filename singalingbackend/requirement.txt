@@ -1,0 +1,10 @@
+flask-restful
+flask-socketio
+python-dotenv
+Flask-And-Redis
+eventlet
+flask-cors
+gunicorn
+PyJWT
+pymongo
+
